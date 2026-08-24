@@ -1,0 +1,7 @@
+<bnd><![CDATA[
+Import-Package: \
+  com.day.cq.replication;version="[1.0,7)",\
+  org.apache.sling.api.resource;version="[2.11,3)",\
+  org.osgi.service.event;version="[1.3,2)",\
+  *;resolution:=optional
+]]></bnd>
